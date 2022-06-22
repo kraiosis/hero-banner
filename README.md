@@ -1,4 +1,4 @@
-# Hero Banner (Plugin)
+Hero Banner (Plugin)
 =========================================
 
 Hero Banner allows to display a fully customizable pattern Hero Banner on your **Bludit CMS** Home Page.
