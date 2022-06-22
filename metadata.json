@@ -1,0 +1,10 @@
+{
+    "author": "Kraiosis",
+    "email": "federicoguzman@gmail.com",
+    "website": "https://github.com/kraiosis/hero-banner",
+    "version": "1.0.0",
+    "releaseDate": "2022-06-22",
+    "license": "MIT",
+    "compatible": "3.x",
+    "notes": "Display a fully customizable Pattern Hero Banner on your Bludit CMS Home Page."
+}

@@ -1,0 +1,9 @@
+.hero-banner{
+    min-height: 40vh;
+}
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+    .hero-banner{
+        min-height: 30vh;
+    }
+}
