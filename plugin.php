@@ -94,10 +94,11 @@
             return $html;
         }
 
-        public function afterAdminLoad(){
+        public function adminBodyEnd(){
             global $L;
             if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-                print('<script charset="utf-8">showAlert("'.$L->get('hero-save-msg').'");</script>');
+
+                print('<script charset="utf-8">$(document).ready(function() { showAlert("'.$L->get('hero-save-msg').'")});</script>');
             }
         }
 
