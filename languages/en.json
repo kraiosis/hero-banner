@@ -4,12 +4,15 @@
         "name": "Hero Banner",
         "description": "Display a hero banner on any Bludit CMS theme homepage."
     },
-    "hero-bg-color": "Set Hero Banner primary background color.",
-	"hero-title": "Set a heading title for your Hero Banner.",
-    "hero-title-color": "Set the color of heading title for your Hero Banner.",
-	"hero-phrase": "Set a phrase or short message for your Hero Banner.",
-    "hero-phrase-color": "Set the color of phrase or short message for your Hero Banner.",
-	"hero-button-label": "Label for the Call-to-Action buttton.",
-    "hero-button-link": "Url link for the hero button to your content or external link.",
-    "hero-image": "Set Hero Banner background image."
+    "hero-bg-color": "Set Hero Banner primary background color",
+	"hero-title": "Set a heading title for your Hero Banner",
+    "hero-title-color": "Set the color of heading title for your Hero Banner",
+	"hero-phrase": "Set a phrase or short message for your Hero Banner",
+    "hero-phrase-color": "Set the color of phrase or short message for your Hero Banner",
+	"hero-button-label": "Label for the Call-to-Action buttton",
+    "hero-button-link": "Link for the Call-to-Action buttton",
+    "hero-image": "Set Hero Banner background image",
+    "hero-save-msg": "The changes have been saved",
+    "hero-save-btn": "Save",
+    "hero-cancel-btn": "Cancel"
 }

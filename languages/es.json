@@ -4,12 +4,15 @@
         "name": "Hero Banner",
         "description": "Muestra un banner en la página principal de tu sitio web con Bludit CMS."
     },
-    "hero-bg-color": "Color de fondo para Hero Banner.",
+    "hero-bg-color": "Color de fondo para Hero Banner",
 	"hero-title": "Título para mostrar en el Hero Banner",
     "hero-title-color": "Color del título para mostrar en el Hero Banner",
 	"hero-phrase": "Texto corto para el Bero Banner",
     "hero-phrase-color": "Color del texto corto para el Bero Banner",
 	"hero-button-label": "Texto para el botón del Hero Banner",
-    "hero-button-link": "Enlace URL destino del botón del Hero Banner.",
-    "hero-image": "Seleccione la imágen de fondo para el Hero Banner."
+    "hero-button-link": "Enlace URL destino del botón del Hero Banner",
+    "hero-image": "Seleccione la imágen de fondo para el Hero Banner",
+    "hero-save-msg": "Los cambios fueron guardados",
+    "hero-save-btn": "Guardar",
+    "hero-cancel-btn": "Cancelar"
 }
