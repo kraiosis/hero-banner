@@ -1,0 +1,18 @@
+{
+    "plugin-data":
+    {
+        "name": "Hero Banner",
+        "description": "Zobrazte Hero banner na jakékoli domovské stránce motivu Bludit CMS."
+    },
+    "hero-bg-color": "Barva pozadí banneru",
+	"hero-title": "Nadpis banneru",
+    "hero-title-color": "Barva nadpisu",
+	"hero-phrase": "Fráze nebo krátký text v banneru",
+    "hero-phrase-color": "Barva fráze nebo krátkého textu",
+	"hero-button-label": "Štítek tlačítka s výzvou k akci",
+    "hero-button-link": "Odkaz tlačítka s výzvou k akci",
+    "hero-image": "Obrázek pozadí banneru",
+    "hero-save-msg": "Změny byly uloženy",
+    "hero-save-btn": "Uložit",
+    "hero-cancel-btn": "Zrušit"
+}
